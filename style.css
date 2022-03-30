@@ -70,3 +70,10 @@ h2 {
   background-color: #4b5092;
   color: white;
 }
+
+.second-container {
+  width: 100%;
+  height: 686px;
+  margin: 40px 15px;
+  padding-top: 50px;
+}
